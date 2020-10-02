@@ -33,6 +33,13 @@ Choose one of the following options:
   mkdir html5-boilerplate
   unzip html5-boilerplate*.zip -d html5-boilerplate
   ```
+  //Or
+  We can manually go to the downloaded zip folder and follow the steps below.
+  1. Go to the zip file.
+  2. Right click the file.
+  3. Click on extract.
+  4. This will create a new folder on your specified location.
+  5. The name of the folder will be "html5-boilerplate_v7.3.0" as mentioned above.
 
 * Clone the git repo — `git clone
   https://github.com/h5bp/html5-boilerplate.git` - and checkout the
